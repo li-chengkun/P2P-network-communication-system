@@ -1,0 +1,13 @@
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\bin\Debug\LChat.exe.config
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\bin\Debug\LChat.exe
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\bin\Debug\LChat.pdb
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.csprojAssemblyReference.cache
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.login.resources
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.Properties.Resources.resources
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.csproj.GenerateResource.cache
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.exe
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.pdb
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.main.resources
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.Add_Group.resources
+C:\Users\LN\Desktop\NETWORK\LChat\LChat\obj\Debug\LChat.sticker.resources
